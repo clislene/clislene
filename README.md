@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Clislene 👋🏿
- - 📚 Estudante de desenvolvimento web
+ - 📚 Sistemas de Informação - UNOPAR
  - 😄 Pronomes: ela/dela
 
  <div align=center>
