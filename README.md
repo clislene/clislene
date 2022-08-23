@@ -11,6 +11,6 @@
 
 <hr><div align="center">
   <a href="https://github.com/clislene">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clislene&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clislene&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
